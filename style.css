@@ -1,0 +1,21 @@
+h1 {
+    color: aqua;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+textarea {
+    display: block;
+}
+
+h1 {
+    color: red;
+    /* sử dụng màu theo tên màu*/
+    color: #000fff;
+    /* sử dụng mã màu hexa*/
+    color: rgb(0, 200, 200);
+    /* phối màu rgb*/
+    color: rgba(0, 100, 100, 0.5);
+    /* phối màu rgb đậm nhạt */
+}
